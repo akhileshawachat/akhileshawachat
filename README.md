@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Awachat</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Next j**
+- 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **Springboot,React,.NET**
 
