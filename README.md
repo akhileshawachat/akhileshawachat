@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Angular,React,Springboot,.NET**
+- 💬 Ask me about **Angular, React, Node js, Springboot, .NET**
 
 - 📫 How to reach me **akhileshawachat65@gmail.com**
 - See my work at <a href="https://akhilesh-portfolio-nu.vercel.app/"> Portfolio </a>
